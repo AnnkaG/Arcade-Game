@@ -22,3 +22,8 @@ decreased by 50 points.
 The time is limited to 3 minutes, when there is no time left, the game stops. The pop up window informs
 about the final score.
 The game can be replayed by clicking the "Play!" button.
+
+Game Link
+---------
+https://annkag.github.io
+

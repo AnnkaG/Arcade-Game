@@ -5,6 +5,11 @@ DESCRIPTION
 -----------
 Arcade game - player tries to pass enemy territory and reach the water without colliding with enemies. 
 
+Instructions to Load the Game
+-----------------------------
+1. Clone or download all files from this repository.
+2. Open index.html file in the browser.
+
 Game Layout
 ------------
 There are three different parts of the playing area:
